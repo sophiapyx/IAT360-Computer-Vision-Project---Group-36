@@ -1,0 +1,10 @@
+# YOLO data config
+path: /content/gdrive/MyDrive/Colab Notebooks/final_datasets_cat_v2
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names:
+  0: no_pain
+  1: pain
